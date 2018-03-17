@@ -1,0 +1,42 @@
+C:\Users\USER\Desktop\u201523364\Latam\Latam\bin\Debug\Latam.exe.config
+C:\Users\USER\Desktop\u201523364\Latam\Latam\bin\Debug\Latam.exe
+C:\Users\USER\Desktop\u201523364\Latam\Latam\bin\Debug\Latam.pdb
+C:\Users\USER\Desktop\u201523364\Latam\Latam\obj\Debug\Latam.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\u201523364\Latam\Latam\obj\Debug\Latam.Form1.resources
+C:\Users\USER\Desktop\u201523364\Latam\Latam\obj\Debug\Latam.Form2.resources
+C:\Users\USER\Desktop\u201523364\Latam\Latam\obj\Debug\Latam.Properties.Resources.resources
+C:\Users\USER\Desktop\u201523364\Latam\Latam\obj\Debug\Latam.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\u201523364\Latam\Latam\obj\Debug\Latam.exe
+C:\Users\USER\Desktop\u201523364\Latam\Latam\obj\Debug\Latam.pdb
+C:\Users\USER\Desktop\u201523364\Latam\Latam\bin\Debug\Latam.exe.manifest
+C:\Users\USER\Desktop\u201523364\Latam\Latam\bin\Debug\Latam.application
+C:\Users\USER\Desktop\u201523364\Latam\Latam\obj\Debug\Latam.exe.manifest
+C:\Users\USER\Desktop\u201523364\Latam\Latam\obj\Debug\Latam.application
+C:\Users\USER\Desktop\Trabajo Final -Matemática Discreta\Latam\Latam\bin\Debug\Latam.exe.config
+C:\Users\USER\Desktop\Trabajo Final -Matemática Discreta\Latam\Latam\obj\Debug\Latam.exe
+C:\Users\USER\Desktop\Trabajo Final -Matemática Discreta\Latam\Latam\obj\Debug\Latam.pdb
+C:\Users\USER\Desktop\Trabajo Final -Matemática Discreta\Latam\Latam\bin\Debug\Latam.exe.manifest
+C:\Users\USER\Desktop\Trabajo Final -Matemática Discreta\Latam\Latam\bin\Debug\Latam.application
+C:\Users\USER\Desktop\Trabajo Final -Matemática Discreta\Latam\Latam\bin\Debug\Latam.exe
+C:\Users\USER\Desktop\Trabajo Final -Matemática Discreta\Latam\Latam\bin\Debug\Latam.pdb
+C:\Users\USER\Desktop\Trabajo Final -Matemática Discreta\Latam\Latam\obj\Debug\Latam.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Trabajo Final -Matemática Discreta\Latam\Latam\obj\Debug\Latam.Form1.resources
+C:\Users\USER\Desktop\Trabajo Final -Matemática Discreta\Latam\Latam\obj\Debug\Latam.Form2.resources
+C:\Users\USER\Desktop\Trabajo Final -Matemática Discreta\Latam\Latam\obj\Debug\Latam.Properties.Resources.resources
+C:\Users\USER\Desktop\Trabajo Final -Matemática Discreta\Latam\Latam\obj\Debug\Latam.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Trabajo Final -Matemática Discreta\Latam\Latam\obj\Debug\Latam.exe.manifest
+C:\Users\USER\Desktop\Trabajo Final -Matemática Discreta\Latam\Latam\obj\Debug\Latam.application
+D:\Flea\Trabajos\Trabajo Final -Matemática Discreta\Latam\Latam\bin\Debug\Latam.exe.config
+D:\Flea\Trabajos\Trabajo Final -Matemática Discreta\Latam\Latam\obj\Debug\Latam.exe
+D:\Flea\Trabajos\Trabajo Final -Matemática Discreta\Latam\Latam\obj\Debug\Latam.pdb
+D:\Flea\Trabajos\Trabajo Final -Matemática Discreta\Latam\Latam\bin\Debug\Latam.exe.manifest
+D:\Flea\Trabajos\Trabajo Final -Matemática Discreta\Latam\Latam\bin\Debug\Latam.application
+D:\Flea\Trabajos\Trabajo Final -Matemática Discreta\Latam\Latam\bin\Debug\Latam.exe
+D:\Flea\Trabajos\Trabajo Final -Matemática Discreta\Latam\Latam\bin\Debug\Latam.pdb
+D:\Flea\Trabajos\Trabajo Final -Matemática Discreta\Latam\Latam\obj\Debug\Latam.csprojResolveAssemblyReference.cache
+D:\Flea\Trabajos\Trabajo Final -Matemática Discreta\Latam\Latam\obj\Debug\Latam.Form1.resources
+D:\Flea\Trabajos\Trabajo Final -Matemática Discreta\Latam\Latam\obj\Debug\Latam.Form2.resources
+D:\Flea\Trabajos\Trabajo Final -Matemática Discreta\Latam\Latam\obj\Debug\Latam.Properties.Resources.resources
+D:\Flea\Trabajos\Trabajo Final -Matemática Discreta\Latam\Latam\obj\Debug\Latam.csproj.GenerateResource.Cache
+D:\Flea\Trabajos\Trabajo Final -Matemática Discreta\Latam\Latam\obj\Debug\Latam.exe.manifest
+D:\Flea\Trabajos\Trabajo Final -Matemática Discreta\Latam\Latam\obj\Debug\Latam.application
